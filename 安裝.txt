@@ -1,0 +1,6 @@
+pip install virtualenv 創虛擬環境
+python3 -m venv myenv
+myenv\Scripts\activate
+
+pip install flask
+pip install line-bot-sdk
